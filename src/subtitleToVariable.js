@@ -1,3 +1,10 @@
+/*
+Created with ❤ by Saurav Shah
+https://github.com/sauravshah31/Youtube_Subtitle
+
+Feel free to use this code.
+
+*/
 //Convert multiline subtitle to single line
 function convertToVariable(file){
 	var l = file.length;
