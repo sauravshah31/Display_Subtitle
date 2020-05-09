@@ -1,4 +1,10 @@
+/*
+Created with ❤ by Saurav Shah
+https://github.com/sauravshah31/Youtube_Subtitle
 
+Feel free to use this code.
+
+*/
 //---------------------------------------------
 //ELEMENT TO DISPLAY SUBTITLE
 var newNode;
