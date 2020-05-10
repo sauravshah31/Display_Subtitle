@@ -3,7 +3,7 @@ Extension to display subtitle from external 'srt' format file.
 
 ---
 ### Firefox
-[Get the extension here](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle/)
+[Get the extension here](https://bit.ly/YoutubeSubtitle)
 
 ### Here's what it looks like
 
