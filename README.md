@@ -8,6 +8,7 @@ Extension to display subtitle from external 'srt' format file.
 ### Here's what it looks like
 
 ![DEMO1](./demo1.png)\
-![DEMO2](./demo2.png)
+![DEMO2](./demo2.png)\
+![DEMO3](./demo3.png)
 
 
