@@ -3,9 +3,11 @@
 ![DEMO](./demo.png)
 
 ## Display subtitle (v2.0)
+
 Extension to display subtitle from external 'srt' format file.\
-v2.0, improved, dynamic
+v2.0, improved, dynamic\
 Extension to be released soon\
+
 ---
 ### Firefox
 
