@@ -1,5 +1,5 @@
 ## Youtube Subtitle (v1.0)(old)
- <a href="https://bit.ly/youtube-subtitle">click to get the externsion for firefox</a> (can be buggy)
+ <a href="https://bit.ly/youtube-subtitle">click to get the externsion for firefox</a> (can be buggy)\
 !(DEMO)[./demo.png]
 ## Display subtitle (v2.0)
 Extension to display subtitle from external 'srt' format file.\
