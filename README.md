@@ -1,16 +1,15 @@
 ## Youtube Subtitle (v1.0)(old)
- <a href="https://bit.ly/youtube-subtitle">click to get the fireofx extension</a> (can be buggy)\
-![DEMO](./demo.png)
+![DEMO](./demo.png)\
+* No more support
 
 ## Display subtitle (v2.0)
 
 Extension to display subtitle from external 'srt' format file.\
 v2.0, improved, dynamic\
-Extension to be released soon\
 
 ---
 ### Firefox
-
+* </b>Get your subtitle <a href="https://addons.mozilla.org/en-US/firefox/addon/displaysubtitle"> here </a></b>
 
 ### Here's what it looks like
 
