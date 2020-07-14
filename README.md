@@ -1,5 +1,5 @@
 ## Youtube Subtitle (v1.0)(old)
-![DEMO](./demo.png)\
+![DEMO](./demo.png)
 * No more support
 
 ## Display subtitle (v2.0)
@@ -9,7 +9,7 @@ v2.0, improved, dynamic\
 
 ---
 ### Firefox
-* </b>Get your subtitle <a href="https://addons.mozilla.org/en-US/firefox/addon/displaysubtitle"> here </a></b>
+<h1><code> </b>GET YOUR SUBTITLE<a href="https://addons.mozilla.org/en-US/firefox/addon/displaysubtitle"> HERE </a></b></code></h1>
 
 ### Here's what it looks like
 
